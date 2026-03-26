@@ -1,5 +1,9 @@
 # Checkpoint 3 — Domain Driven Design
 
+Nome: Lucas Alves Piereti - RM: 559533
+Nome: Rafaela Heer Robinson - RM: 560249
+Nome: Julia Hadja - RM: 559410
+
 ## API de Ciclo de Vida de Pedido de Restaurante
 
 Este projeto foi desenvolvido como parte do Checkpoint 3 da disciplina de Domain Driven Design.
