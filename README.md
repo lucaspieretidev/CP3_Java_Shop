@@ -1,8 +1,8 @@
 # Checkpoint 3 — Domain Driven Design
 
-Nome: Lucas Alves Piereti - RM: 559533
-Nome: Rafaela Heer Robinson - RM: 560249
-Nome: Julia Hadja - RM: 559410
+* Nome: Lucas Alves Piereti - RM: 559533
+* Nome: Rafaela Heer Robinson - RM: 560249
+* Nome: Julia Hadja - RM: 559410
 
 ## API de Ciclo de Vida de Pedido de Restaurante
 
